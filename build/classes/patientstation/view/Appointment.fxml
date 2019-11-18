@@ -14,7 +14,7 @@
       <TableView fx:id="custTable" layoutX="43.0" layoutY="88.0" prefHeight="340.0" prefWidth="243.0">
         <columns>
           <TableColumn fx:id="custID" prefWidth="75.0" text="ID" />
-          <TableColumn fx:id="custName" prefWidth="167.0" text="Customer Name" />
+          <TableColumn fx:id="custName" prefWidth="167.0" text="Patient Name" />
         </columns>
       </TableView>
       <Button layoutX="367.0" layoutY="451.0" mnemonicParsing="false" onAction="#addApptButton" text="Add Appointment" />

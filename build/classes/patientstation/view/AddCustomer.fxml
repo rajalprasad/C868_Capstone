@@ -8,13 +8,13 @@
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="413.0" prefWidth="414.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="patientstation.view.AddCustomerController">
    <children>
-      <Label layoutX="40.0" layoutY="91.0" text="Customer Name" />
+      <Label layoutX="68.0" layoutY="91.0" text="Patient Name" />
       <Label layoutX="90.0" layoutY="126.0" prefHeight="5.0" prefWidth="51.0" text="Address" />
       <Label layoutX="118.0" layoutY="196.0" text="City" />
       <Label layoutX="94.0" layoutY="267.0" text="Country" />
       <Label layoutX="88.0" layoutY="231.0" text="Zip Code" />
       <Label layoutX="99.0" layoutY="303.0" text="Phone" />
-      <Label layoutX="86.0" layoutY="29.0" text="Add Customer">
+      <Label layoutX="129.0" layoutY="24.0" text="Add Patient">
          <font>
             <Font size="36.0" />
          </font>
@@ -28,6 +28,6 @@
       <Button layoutX="150.0" layoutY="340.0" mnemonicParsing="false" onAction="#saveButton" prefHeight="27.0" prefWidth="56.0" text="Save" />
       <Button layoutX="229.0" layoutY="340.0" mnemonicParsing="false" onAction="#cancelButton" text="Cancel" />
       <TextField fx:id="address2" layoutX="145.0" layoutY="156.0" />
-      <Label layoutX="77.0" layoutY="161.0" text="Address 2" />
+      <Label layoutX="86.0" layoutY="161.0" text="Address 2" />
    </children>
 </AnchorPane>

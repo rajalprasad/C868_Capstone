@@ -103,10 +103,10 @@ public class ReportsController implements Initializable {
         AppointmentReports appttypereport;
         try {
             Statement stmt = DBConnection.conn.createStatement();
-            String q = "SELECT MONTHNAME(`start`) AS Month, description AS Type, "
+            String q = "SELECT MONTHNAME(`start`) AS Month, type AS Type, "
                     + "COUNT(*) AS Amount\n" +
                     "FROM appointment \n" +
-                    "GROUP BY MONTHNAME(`start`), description;";
+                    "GROUP BY MONTHNAME(`start`), type;";
             ResultSet rs = stmt.executeQuery(q);
             while(rs.next()) {
                 appttypereport = new AppointmentReports(rs.getString("Month"), 
