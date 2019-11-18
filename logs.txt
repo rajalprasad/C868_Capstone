@@ -1,0 +1,1040 @@
+Aug 10, 2019 1:45:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: 
+Login: failed
+
+Aug 10, 2019 1:45:11 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 10, 2019 1:45:14 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 10, 2019 1:45:22 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: asasdf
+Login: failed
+
+Aug 10, 2019 5:34:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: 
+Login: failed
+
+Aug 10, 2019 5:34:28 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: 
+Login: failed
+
+Aug 11, 2019 12:19:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:20:32 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:31:23 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:38:49 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:40:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:42:32 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 12:56:49 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 1:03:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 1:11:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 1:14:08 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 1:15:41 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 1:30:44 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:10:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:12:03 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:12:38 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:42:27 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:48:08 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:49:02 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:50:35 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 7:56:42 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 8:00:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 10:59:03 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 11:05:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 11:18:38 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 11:20:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 11, 2019 11:21:12 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 8:28:50 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:00:41 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:02:25 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:09:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:12:01 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: TEST
+Login: successful
+
+Aug 12, 2019 9:22:11 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:44:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 9:56:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 10:01:16 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 12, 2019 10:01:23 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 11:07:39 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 12, 2019 11:12:44 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 13, 2019 10:25:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 13, 2019 10:25:40 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 13, 2019 10:27:28 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 16, 2019 8:29:12 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 16, 2019 8:37:11 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 10:55:58 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 11:33:11 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 11:38:19 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 11:42:11 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:20:47 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:23:44 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:25:14 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:26:01 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:29:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:29:42 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:30:44 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 2:31:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:03:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:04:17 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:05:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:12:51 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:19:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:35:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:37:00 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:37:50 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:45:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: TEST
+Login: successful
+
+Aug 17, 2019 4:46:08 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 17, 2019 4:46:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 8:26:53 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 18, 2019 8:26:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 8:28:16 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 8:30:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 9:02:12 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 9:06:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 9:10:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 18, 2019 9:16:38 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:22:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:40:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:42:28 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:44:20 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:44:56 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:46:30 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 19, 2019 8:53:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 20, 2019 9:10:57 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 20, 2019 9:15:26 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 20, 2019 9:16:45 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:12:17 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:24:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:36:48 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:39:39 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:47:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:50:14 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 8:52:52 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 9:26:20 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 9:28:40 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 9:29:56 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 21, 2019 9:37:15 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 7:12:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 7:14:14 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 7:35:44 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 7:42:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 7:43:13 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:22:16 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:28:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:32:54 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:37:20 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:42:06 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 22, 2019 8:45:35 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 22, 2019 8:45:39 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:04:51 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:13:45 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:19:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:20:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:22:40 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:26:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:28:56 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 24, 2019 4:29:00 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:31:42 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 4:45:42 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 5:46:33 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 5:49:53 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 6:00:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 6:10:15 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 6:55:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 24, 2019 6:55:10 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 6:56:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 8:12:21 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 8:13:01 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 24, 2019 8:17:57 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 10:43:13 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 10:57:14 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 10:58:48 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 11:56:57 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 11:58:45 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 12:01:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 12:03:19 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 1:14:43 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 1:15:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 1:16:42 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 1:19:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 4:16:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 4:19:41 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 4:29:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 6:02:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 6:19:21 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:03:31 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:40:04 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:43:51 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:44:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:46:24 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:56:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 7:57:02 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 8:16:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:20:18 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:21:46 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:28:11 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:30:39 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:44:50 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:45:35 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:46:27 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 2:47:06 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:18:51 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:22:02 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:25:11 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:26:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:28:29 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:31:02 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:32:55 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:34:56 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 3:36:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 9:37:34 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 9:42:30 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 25, 2019 9:47:19 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:53:49 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:56:28 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:57:00 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:58:18 AM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 7:51:13 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 7:57:57 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 8:03:25 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 8:07:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Aug 26, 2019 8:07:08 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 8:12:28 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:13:12 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:23:30 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:25:07 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Aug 26, 2019 9:30:58 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 16, 2019 4:06:37 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 3:17:37 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 6:44:30 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Nov 17, 2019 6:49:05 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Nov 17, 2019 6:49:09 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 7:05:33 PM software2.services.LogService Logger
+INFO: America/Los_Angeles
+Username: asdf
+Login: failed
+
+Nov 17, 2019 7:15:46 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: asdf
+Login: failed
+
+Nov 17, 2019 7:15:49 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 8:23:49 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 8:24:57 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 8:30:01 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:02:00 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:04:50 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:11:44 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:15:29 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:16:56 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 17, 2019 9:51:46 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
