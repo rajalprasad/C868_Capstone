@@ -1063,3 +1063,58 @@ INFO: America/Los_Angeles
 Username: test
 Login: successful
 
+Nov 18, 2019 10:58:44 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:02:03 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:03:41 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:08:45 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:09:56 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:10:33 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:11:49 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:16:53 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:17:38 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:18:41 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 18, 2019 11:23:29 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+

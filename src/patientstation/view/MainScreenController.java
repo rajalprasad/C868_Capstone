@@ -61,6 +61,18 @@ public class MainScreenController implements Initializable {
     }
     
     @FXML
+    public void handleSearchButton(ActionEvent event) throws IOException {
+        
+        ((Node) (event.getSource())).getScene().getWindow().hide();
+        Stage stage = new Stage();
+        Parent root = FXMLLoader.load(getClass().getResource("Search.fxml"));
+        Scene scene = new Scene(root);
+        stage.setScene(scene);
+        stage.show();
+        
+    }
+    
+    @FXML
     public void handleReportsButton(ActionEvent event) throws IOException {
         ((Node) (event.getSource())).getScene().getWindow().hide();
         Stage stage = new Stage();
