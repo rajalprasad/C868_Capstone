@@ -1118,3 +1118,83 @@ INFO: America/Los_Angeles
 Username: test
 Login: successful
 
+Nov 19, 2019 11:42:38 AM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 11:46:43 AM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 11:56:57 AM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 12:10:28 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 12:16:54 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 2:56:57 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: failed
+
+Nov 19, 2019 2:57:02 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:21:16 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:30:38 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:41:38 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:47:18 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:50:33 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:52:59 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:54:05 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:55:18 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+
+Nov 19, 2019 3:58:18 PM patientstation.services.LogService Logger
+INFO: America/Los_Angeles
+Username: test
+Login: successful
+

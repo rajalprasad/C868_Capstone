@@ -20,6 +20,7 @@ import javafx.fxml.Initializable;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableView;
 import javafx.scene.control.TextField;
@@ -57,47 +58,64 @@ public class SearchController implements Initializable {
 
     @FXML
     private void handleSearchButton(ActionEvent event) {
-        searchResultsTable.getItems().clear();
-        String key = keywordTextField.getText();
-        keywordTextField.setText("");
+        if (keywordTextField.getText().trim().isEmpty()) {
+            Alert alert = new Alert(Alert.AlertType.ERROR);
+            alert.setTitle("Input Error");
+            alert.setHeaderText("Please check your entry");
+            alert.setContentText("Search box text cannot be empty, please try again");
+            alert.showAndWait();
+        } else {
+            searchResultsTable.getItems().clear();
+            String key = keywordTextField.getText();
+            keywordTextField.setText("");
         
-        ObservableList<Appointment> searchResult = FXCollections.observableArrayList();
-        Appointment search;
-        try {
-            Statement stmt = DBConnection.conn.createStatement();
-            String q = "SELECT appointment.contact, appointment.type, "
-                    + "customer.customerName, appointment.start, appointment.end "
-                    +"FROM appointment, customer "
-                    +"WHERE appointment.customerId = customer.customerId "
-                    +"AND customer.customerName LIKE '%" +key +"%'";
-            ResultSet rs = stmt.executeQuery(q);
-            while(rs.next()) {
-                search = new Appointment(
-                    rs.getString("appointment.contact"),
-                    rs.getString("appointment.type"),
-                    rs.getString("customer.customerName"),
-                    rs.getString("appointment.start"),
-                    rs.getString("appointment.end"));
-                searchResult.add(search);
+            ObservableList<Appointment> searchResult = FXCollections.observableArrayList();
+            //searchResult.clear();
+            Appointment search;
+            try {
+                Statement stmt = DBConnection.conn.createStatement();
+                String q = "SELECT appointment.contact, appointment.type, "
+                        + "customer.customerName, appointment.start, appointment.end "
+                        +"FROM appointment, customer "
+                        +"WHERE appointment.customerId = customer.customerId "
+                        +"AND customer.customerName LIKE '%" +key +"%'";
+                ResultSet rs = stmt.executeQuery(q);
+                while(rs.next()) {
+                        search = new Appointment(
+                        rs.getString("appointment.contact"),
+                        rs.getString("appointment.type"),
+                        rs.getString("customer.customerName"),
+                        rs.getString("appointment.start"),
+                        rs.getString("appointment.end"));
+                        searchResult.add(search);
+                        
+                        patientNameCol.setCellValueFactory(cellData -> {
+                        return cellData.getValue().getApptCustProp(); 
+                        });
+                        apptTypeCol.setCellValueFactory(cellData -> {
+                        return cellData.getValue().getApptTypeProp(); 
+                        });
+                        apptTimeCol.setCellValueFactory(cellData -> {
+                        return cellData.getValue().getApptStartProp(); 
+                        });
+                        physicianCol.setCellValueFactory(cellData -> {
+                        return cellData.getValue().getApptContactProp(); 
+                        });
+                        searchResultsTable.setItems(searchResult); 
+//                if(rs.next() == false) {
+//                    
+                }                
+            } catch (SQLException ex) {
+                System.out.println("SQLException: " + ex.getMessage());
+            } 
+            if (searchResult.isEmpty()){
+                Alert alert = new Alert(Alert.AlertType.ERROR);
+                alert.setTitle("Search not found");
+                alert.setHeaderText("No entry matches your selection");
+                alert.setContentText("Please try again");
+                alert.showAndWait();
             }
-            stmt.close();
-        } catch (SQLException ex) {
-            System.out.println("SQLException: " + ex.getMessage());
-        }
-        
-        patientNameCol.setCellValueFactory(cellData -> {
-            return cellData.getValue().getApptCustProp(); 
-        });
-        apptTypeCol.setCellValueFactory(cellData -> {
-            return cellData.getValue().getApptTypeProp(); 
-        });
-        apptTimeCol.setCellValueFactory(cellData -> {
-            return cellData.getValue().getApptStartProp(); 
-        });
-        physicianCol.setCellValueFactory(cellData -> {
-            return cellData.getValue().getApptContactProp(); 
-        });
-        searchResultsTable.setItems(searchResult);
+        }       
     }
 
     @FXML
